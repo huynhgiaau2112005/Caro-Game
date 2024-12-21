@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="CaroBoard">
+    <Position X="0.5" Y="11.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAABFQAUAIABAAQAAAAACAAAAAgAAAAAAA=</HashCode>
+      <FileName>CaroBoard.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CaroCell">
+    <Position X="3.75" Y="11.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>ABAAAACAAAAAABAQAgIABAAAAAABACAAAAAAAAAAAAA=</HashCode>
+      <FileName>CaroCell.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CaroExitButton">
+    <Position X="16" Y="11.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAACAAAAAABAJAgAABAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CaroExitButton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CaroPlayerTurnTextBox">
+    <Position X="11.5" Y="11.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAQIAAABAAAIAADAAAAAAAAAABAAAgAAAAAgE=</HashCode>
+      <FileName>CaroPlayerTurnTextBox.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CaroResetButton">
+    <Position X="7.25" Y="11.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAACAAACAABABAgAABAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CaroResetButton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Object">
+    <Position X="7.5" Y="9.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAABAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Object.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Caro">
+    <Position X="5.25" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAACAAAAAAAAQAAAACAAAAAgAAAAAAA=</HashCode>
+      <FileName>Caro.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CaroGamePlay">
+    <Position X="14.5" Y="3" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>ACAGAAIEAAAAiEAAIgAACAgAABDQACAQgACgADEAAAA=</HashCode>
+      <FileName>CaroGamePlay.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CaroPlayer">
+    <Position X="19.25" Y="3" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAIAAAAAAAACAAAAMAAACCAAAAgAAAAAAA=</HashCode>
+      <FileName>CaroPlayer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IGamePlay">
+    <Position X="15.75" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAACAAAAABAAAAAAA=</HashCode>
+      <FileName>IGamePlay.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IGame">
+    <Position X="5.25" Y="1" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>IGame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IPlayer">
+    <Position X="19.75" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>IPlayer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObjectHandlerFactory">
+    <Position X="21.75" Y="8.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAQAAAAAIAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>ObjectHandlerFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClickOnObjectHandler">
+    <Position X="21.25" Y="16.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAACAAAAAAA=</HashCode>
+      <FileName>ClickOnObjectHandler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HoverOnObjectHandler">
+    <Position X="25.25" Y="16.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAACAAAAAAA=</HashCode>
+      <FileName>HoverOnObjectHandler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IObjectEventHandler">
+    <Position X="24" Y="14" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>IObjectEventHandler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IObjectHandler">
+    <Position X="21.75" Y="11.25" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>IObjectHandler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObjectDisplayer">
+    <Position X="20.25" Y="14" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>ObjectDisplayer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CaroGameRule">
+    <Position X="7.75" Y="3" Width="6.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="CaroGameRule::CaroGameRuleUtils">
+        <TypeIdentifier>
+          <NewMemberFileName>CaroGameRule.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAIAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>CaroGameRule.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IGameRule">
+    <Position X="10" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>IGameRule.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

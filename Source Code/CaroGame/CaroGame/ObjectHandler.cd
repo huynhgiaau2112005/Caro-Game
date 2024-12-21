@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="ObjectHandlerFactory">
+    <Position X="7.25" Y="1" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAQAAAAAIAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>ObjectHandlerFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClickOnObjectHandler">
+    <Position X="6.75" Y="9" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAACAAAAAAA=</HashCode>
+      <FileName>ClickOnObjectHandler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HoverOnObjectHandler">
+    <Position X="10.75" Y="9" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAACAAAAAAA=</HashCode>
+      <FileName>HoverOnObjectHandler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IObjectEventHandler">
+    <Position X="9.5" Y="6.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>IObjectEventHandler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IObjectHandler">
+    <Position X="7.25" Y="3.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>IObjectHandler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObjectDisplayer">
+    <Position X="5.75" Y="6.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>ObjectDisplayer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

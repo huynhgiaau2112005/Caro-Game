@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files\models">
+      <UniqueIdentifier>{d400fdf4-68f3-4c1b-bf0c-d3a1f68fee87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\services">
+      <UniqueIdentifier>{2ad0009b-fa50-4eea-8c9b-88af60b973e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\services\business">
+      <UniqueIdentifier>{d837194c-ef0e-4fa2-982b-af4272fa30f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\services\data-access">
+      <UniqueIdentifier>{728bb592-0c12-4ae0-91c5-d923c8aae45c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\services\ui">
+      <UniqueIdentifier>{e454d774-74e9-4667-a347-0a759d8bb4ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\models\objects">
+      <UniqueIdentifier>{2a551568-ec17-41a3-bae6-87a8be65206e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\services\business\object-handler">
+      <UniqueIdentifier>{b717e0aa-3888-4331-9840-b3a0a5366468}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lib">
+      <UniqueIdentifier>{a839b1c8-84aa-4013-8808-906b2121f7a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\services\business\factory">
+      <UniqueIdentifier>{8e32a5d5-f944-4165-9c9a-61d462f24fae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class Diagram">
+      <UniqueIdentifier>{56a6f42e-2b69-4319-980c-bdcccc2786b7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="IGame.h">
+      <Filter>Source Files\models</Filter>
+    </ClInclude>
+    <ClInclude Include="Caro.h">
+      <Filter>Source Files\models</Filter>
+    </ClInclude>
+    <ClInclude Include="CaroPlayer.h">
+      <Filter>Source Files\models</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>Source Files\models\objects</Filter>
+    </ClInclude>
+    <ClInclude Include="CaroBoard.h">
+      <Filter>Source Files\models\objects</Filter>
+    </ClInclude>
+    <ClInclude Include="CaroCell.h">
+      <Filter>Source Files\models\objects</Filter>
+    </ClInclude>
+    <ClInclude Include="IObjectHandler.h">
+      <Filter>Source Files\services\business\object-handler</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectDisplayer.h">
+      <Filter>Source Files\services\business\object-handler</Filter>
+    </ClInclude>
+    <ClInclude Include="IObjectEventHandler.h">
+      <Filter>Source Files\services\business\object-handler</Filter>
+    </ClInclude>
+    <ClInclude Include="ClickOnObjectHandler.h">
+      <Filter>Source Files\services\business\object-handler</Filter>
+    </ClInclude>
+    <ClInclude Include="HoverOnObjectHandler.h">
+      <Filter>Source Files\services\business\object-handler</Filter>
+    </ClInclude>
+    <ClInclude Include="CaroGameRule.h">
+      <Filter>Source Files\services\business</Filter>
+    </ClInclude>
+    <ClInclude Include="CaroGamePlay.h">
+      <Filter>Source Files\models</Filter>
+    </ClInclude>
+    <ClInclude Include="IGamePlay.h">
+      <Filter>Source Files\models</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>lib</Filter>
+    </ClInclude>
+    <ClInclude Include="CaroPlayerTurnTextBox.h">
+      <Filter>Source Files\models\objects</Filter>
+    </ClInclude>
+    <ClInclude Include="CaroResetButton.h">
+      <Filter>Source Files\models\objects</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectHandlerFactory.h">
+      <Filter>Source Files\services\business\factory</Filter>
+    </ClInclude>
+    <ClInclude Include="CaroExitButton.h">
+      <Filter>Source Files\models\objects</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CaroCell.cpp">
+      <Filter>Source Files\models\objects</Filter>
+    </ClCompile>
+    <ClCompile Include="CaroBoard.cpp">
+      <Filter>Source Files\models\objects</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectDisplayer.cpp">
+      <Filter>Source Files\services\business\object-handler</Filter>
+    </ClCompile>
+    <ClCompile Include="HoverOnObjectHandler.cpp">
+      <Filter>Source Files\services\business\object-handler</Filter>
+    </ClCompile>
+    <ClCompile Include="ClickOnObjectHandler.cpp">
+      <Filter>Source Files\services\business\object-handler</Filter>
+    </ClCompile>
+    <ClCompile Include="CaroPlayer.cpp">
+      <Filter>Source Files\models</Filter>
+    </ClCompile>
+    <ClCompile Include="CaroGamePlay.cpp">
+      <Filter>Source Files\models</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Caro.cpp">
+      <Filter>Source Files\models</Filter>
+    </ClCompile>
+    <ClCompile Include="CaroGameRule.cpp">
+      <Filter>Source Files\services\business</Filter>
+    </ClCompile>
+    <ClCompile Include="CaroPlayerTurnTextBox.cpp">
+      <Filter>Source Files\models\objects</Filter>
+    </ClCompile>
+    <ClCompile Include="CaroResetButton.cpp">
+      <Filter>Source Files\models\objects</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectHandlerFactory.cpp">
+      <Filter>Source Files\services\business\factory</Filter>
+    </ClCompile>
+    <ClCompile Include="CaroExitButton.cpp">
+      <Filter>Source Files\models\objects</Filter>
+    </ClCompile>
+    <ClCompile Include="IPlayer.h">
+      <Filter>Source Files\models</Filter>
+    </ClCompile>
+    <ClCompile Include="IGameRule.h">
+      <Filter>Source Files\services\business</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd">
+      <Filter>Class Diagram</Filter>
+    </None>
+    <None Include="GameRelatedClasses.cd">
+      <Filter>Class Diagram</Filter>
+    </None>
+    <None Include="ObjectHandler.cd">
+      <Filter>Class Diagram</Filter>
+    </None>
+    <None Include="Object.cd">
+      <Filter>Class Diagram</Filter>
+    </None>
+  </ItemGroup>
+</Project>

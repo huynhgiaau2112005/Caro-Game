@@ -1,0 +1,30 @@
+﻿D:\Alternative Disk C\Visual Studio 2022\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Caro.cpp
+  CaroBoard.cpp
+D:\NOTES FOR CLASS\NĂM 2\HỌC KỲ I\PHƯƠNG PHÁP LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\23127153\Source Code\CaroGame\CaroGame\CaroBoard.cpp(63,20): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\NOTES FOR CLASS\NĂM 2\HỌC KỲ I\PHƯƠNG PHÁP LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\23127153\Source Code\CaroGame\CaroGame\CaroBoard.cpp(68,23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  CaroCell.cpp
+  CaroExitButton.cpp
+  CaroGamePlay.cpp
+  CaroGameRule.cpp
+  CaroPlayer.cpp
+  CaroPlayerTurnTextBox.cpp
+  CaroResetButton.cpp
+  ClickOnObjectHandler.cpp
+  HoverOnObjectHandler.cpp
+  main.cpp
+  ObjectDisplayer.cpp
+D:\NOTES FOR CLASS\NĂM 2\HỌC KỲ I\PHƯƠNG PHÁP LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\23127153\Source Code\CaroGame\CaroGame\ObjectDisplayer.cpp(34,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\NOTES FOR CLASS\NĂM 2\HỌC KỲ I\PHƯƠNG PHÁP LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\23127153\Source Code\CaroGame\CaroGame\ObjectDisplayer.cpp(36,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\NOTES FOR CLASS\NĂM 2\HỌC KỲ I\PHƯƠNG PHÁP LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\23127153\Source Code\CaroGame\CaroGame\ObjectDisplayer.cpp(37,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\NOTES FOR CLASS\NĂM 2\HỌC KỲ I\PHƯƠNG PHÁP LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\23127153\Source Code\CaroGame\CaroGame\ObjectDisplayer.cpp(76,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\NOTES FOR CLASS\NĂM 2\HỌC KỲ I\PHƯƠNG PHÁP LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\23127153\Source Code\CaroGame\CaroGame\ObjectDisplayer.cpp(76,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\NOTES FOR CLASS\NĂM 2\HỌC KỲ I\PHƯƠNG PHÁP LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\23127153\Source Code\CaroGame\CaroGame\ObjectDisplayer.cpp(92,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\NOTES FOR CLASS\NĂM 2\HỌC KỲ I\PHƯƠNG PHÁP LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\23127153\Source Code\CaroGame\CaroGame\ObjectDisplayer.cpp(92,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  ObjectHandlerFactory.cpp
+  IPlayer.h
+  IGameRule.h
+  Generating Code...
+  CaroGame.vcxproj -> D:\NOTES FOR CLASS\NĂM 2\HỌC KỲ I\PHƯƠNG PHÁP LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\23127153\Source Code\CaroGame\CaroGame\x64\CaroGame.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
